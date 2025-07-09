@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Versioned Document Tracker (C++)
 
 A modular C++ project simulating a text editor with:
