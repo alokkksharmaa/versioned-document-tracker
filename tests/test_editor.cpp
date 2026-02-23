@@ -1,5 +1,5 @@
 #include <iostream>
-#include "DocumentEditor.h"
+#include "./src/core/DocumentEditor.h"
 
 int main() {
     DocumentEditor editor;
