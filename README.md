@@ -7,10 +7,13 @@ A modular C++ project simulating a text editor with:
 - File Save/Load
 - Clean modular architecture
 
-### Run
+### to  Run
 ```bash
-g++ ui/main.cpp editor/DocumentEditor.cpp undo_redo/UndoRedoManager.cpp versioning/VersionManager.cpp -o tracker
-./tracker
+#to run this  ->  git clone https://github.com/alokkksharmaa/versioned-document-tracker 
+
+1. g++ main.cpp DocumentEditor.cpp UndoRedoManager.cpp VersionManager.cpp -o tracker
+2. ./tracker
+
 =======
 # versioned-document-tracker
 A powerful versioned document editor built in C++ with Qt GUI. Features include stack-based Undo/Redo, version history management, and file persistence. Ideal for learning data structures, GUI development, and version control simulation.
