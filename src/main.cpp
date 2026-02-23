@@ -1,8 +1,8 @@
 #include <iostream>
-#include "DocumentEditor.h"
-#include "UndoRedoManager.h"
-#include "VersionManager.h"
-
+#include "core/DocumentEditor.h"
+#include "core/UndoRedoManager.h"
+#include "core/VersionManager.h"
+#include "ui/MainWindow.h"
 using namespace std;
 
 void showMenu() {
